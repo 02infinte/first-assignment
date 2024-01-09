@@ -1,6 +1,7 @@
 body {
     font-family: 'Merriweather', serif;
     /* font-family: 'Open Sans', sans-serif; */
+
    
 }
 
@@ -359,3 +360,161 @@ margin-bottom: 0px;
          padding-bottom: 200px;
          padding-left: 100px;
     }
+    #gifts{
+        color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin-left: 125px;
+
+    }
+    #awesome{
+        color: #070211;
+font-size: 48px;
+font-weight: 900;
+text-transform: capitalize;
+margin-left: 125px;
+    }
+    #eget{
+        color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px; /* 160% */
+margin-left: 125px;
+    }
+    .bag{
+        margin-left: 100px;
+        margin-right: 60px;
+        margin-bottom: 100px;
+    }
+    .products{
+        margin-top: 25px;
+        margin-left: 30px;
+        width: 455px;
+       height: 500px;
+       border-radius: 16px;
+       transition: 1s;
+    }
+    .products:hover{
+        transform:scale(1.5);
+        z-index: 2;
+
+    }
+    .letter{
+        
+        background-color: rgba(255, 192, 203, 0.073);
+        margin-left: 125px;
+        margin-right:100px;
+    }
+    #letterbox{
+       
+        margin-left:630px;
+        margin-bottom: 10px;
+    }
+    #subscribe{
+        color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+text-transform: capitalize;
+    }
+    #dollar{
+        color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px; /* 160% */
+margin-bottom: 50px;
+    }
+    .user{
+        display: flex;
+        margin-left: 270px;
+        margin-bottom: 100px;
+        
+    }
+    .last{
+        border-top-left-radius: 50px;
+        border-bottom-left-radius: 50px;
+       background: #FFF;
+       border:0;
+       width: 648px;
+       height: 72px;
+       color: rgba(7, 2, 17, 0.30);
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 80px;
+    }
+    .alsolast{
+        border-top-right-radius: 50px;
+        border-bottom-right-radius: 50px;
+       background: #F00;
+       border:0;
+       width: 210px;
+height: 72px;
+color:#ffffff;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 600;
+margin-bottom: 80px;
+      
+    }
+    footer{
+        height: 605px;
+background: #070211;
+}
+.address{
+    color: #FFF;
+   font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    padding-top: 100px;
+    padding-left: 100px;
+    display: inline-block;
+    margin-right: 410px;
+    text-decoration: none;
+}
+.beach{
+    color: #FFF;
+    font-family: Inter;
+     font-size: 24px;
+     font-weight: 500;
+     line-height: 40px;
+     padding-left: 100px;
+     display: inline-block;
+     margin-right: 442px; 
+     text-decoration: none;
+}
+.line{
+    width: 1320px;
+height: 1px;
+ background: rgba(255, 255, 255, 0.15);
+ margin-left: 50px;
+}
+.mang{
+    margin-left: 570px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.end{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+display: inline-block;
+}
+#close{
+    margin-left: 100px;
+    margin-right: 1000px;
+}
+#finish{
+    background-color: #070211;
+    border: none;
+
+}
